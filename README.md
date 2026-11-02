@@ -1,5 +1,6 @@
 # COMP 5120 - Database Systems I
 Auburn University
+
 The course focuses on the theoretical and practical aspects of relational database systems, including database analysis, design, and implementation. Topics include relational data modeling, SQL queries, database schema design, indexing, and query optimization.
 
 ## Course Topics
