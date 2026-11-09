@@ -17,5 +17,10 @@ The course focuses on the theoretical and practical aspects of relational databa
 - Database implementation and performance
 
 ## Assignments
+**Homework 1 - Entity-Relationship Database Design**
 
-Coursework focuses on designing relational databases, developing database schemas, writing SQL queries, and understanding how database systems store, retrieve, and process data.
+Designed a conceptual database schema for the Alabama Department of Transportation (ALDOT) using the Entity-Relationship (ER) model. Focused on identifying entities, attributes, primary keys, relationships, and subclasses to represent projects, experiments, personnel, equipment, and financial information.
+
+**Homework 2 - SQL and Relational Algebra**
+
+Explored foreign key constraints, referential integrity, database schema architecture, and data independence. Developed SQL queries using supplier and parts databases and relational algebra expressions to retrieve and filter employee and company information.
